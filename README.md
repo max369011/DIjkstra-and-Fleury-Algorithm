@@ -21,6 +21,7 @@ it should contain
 - The data must include in the first line number of vertices and number of edges.
   Followed with three integers the starting vertice, ending vertice and edge weight.
 
+```
 Ex)
 5 8
 0 1 1
@@ -31,6 +32,7 @@ Ex)
 2 3 1
 2 3 4
 3 4 1
+```
 
 ## Instructions
 - Open terminal and find the directory of the src folder

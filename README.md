@@ -8,7 +8,7 @@ An explanation video for this program is at the link: https://youtu.be/ZVu1S3V34
 
 ### Prerequisites
 To run this program, download the zip file "21600580_HW#5"
-Underneath the src folder it should contain
+it should contain
 - Makefile
 - dijkstra.c
 - euler.c
